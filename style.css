@@ -63,9 +63,6 @@
   display: flex;
   justify-content: center;
 }
-.linky{
-
-}
 .or{
   text-align: center;
   padding-top: 2%;
@@ -76,4 +73,20 @@
 
 .h666{
   margin-bottom: 9%;
+}
+.lf{
+  height: 50%;
+}
+.fr{
+float: right;
+}
+.wt{
+  color:white;
+}
+.slightMargin{
+  margin: 1% auto 1% auto;
+  color: white;
+}
+.gt{
+  color:grey;
 }
