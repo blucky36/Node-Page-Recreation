@@ -1,0 +1,79 @@
+.headerImage{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 75px;
+  width: 125px;
+  margin-top: 1%;
+}
+.top{
+  border-right: 1px solid grey;
+  color: white;
+  margin-left: 1%;
+}
+.ugh{
+  color:white;
+}
+.h6{
+  margin-top: 10%;
+  font-size: .95vw;
+  margin-bottom: 5%;
+}
+.engine:hover{
+  background-color:darkgreen;
+}
+.engine{
+  margin-left: -1%;
+  margin-right: -1%;
+}
+.h2{
+  text-align: center;
+}
+.greenButton1{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  margin-right: 1%;
+  text-align: center;
+  padding-top: 1%;
+}
+.greenButton2{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  margin-left: 1%;
+  text-align: center;
+  padding-top: 1%;
+}
+.greenButton1:hover{
+  background-color:darkgreen !important;
+}
+.greenButton2:hover{
+  background-color:darkgreen !important;
+}
+ .middle {
+  padding: 10% 30% 10% 30%;
+}
+.bord{
+  border-right:1px solid black;
+}
+.pLinks{
+  display: flex;
+  justify-content: center;
+}
+.linky{
+
+}
+.or{
+  text-align: center;
+  padding-top: 2%;
+}
+.green:hover{
+  background-color:darkgreen;
+}
+
+.h666{
+  margin-bottom: 9%;
+}
